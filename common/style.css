@@ -20,7 +20,7 @@ body {
 
 .container{
     width: 600px;
-    border: 1px dashed white;
+ 
 
     display: flex;
     flex-direction: column;
