@@ -9,6 +9,8 @@
     box-sizing: border-box;
 }
 
+
+html,
 body {
     background-color: var(--bg-color);
     font-family: 'Press Start 2P', cursive;
